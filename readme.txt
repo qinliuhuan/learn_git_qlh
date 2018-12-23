@@ -37,5 +37,3 @@ git push -u origin master
 
 创建了新的分支，123 && 456
 ----------------------
-
-测试冲突  dev  master分支
